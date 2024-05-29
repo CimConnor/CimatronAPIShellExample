@@ -1,0 +1,1 @@
+After downloading the Code you will need to compile it at least onces before registering the command in APIRegisterCommand app. This is beauase API shell is not a stronly named class and cimatron requires a codebase for the api to work properly.
